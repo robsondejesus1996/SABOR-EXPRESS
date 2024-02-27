@@ -1,6 +1,6 @@
 <p align="center">
   <a href=https://cursos.alura.com.br/course/python-crie-sua-primeira-aplicacao>
-    <img src="https://drive.google.com/file/d/1Rqvu3GhuY7dkBIto2_MKLE8fUL61XPwq/view?usp=sharing" alt="Python: crie a sua primeira aplicação">
+    <img src="https://github.com/robsondejesus1996/SABOR-EXPRESS/assets/31260719/3bf57ca2-f73c-41cb-adab-f3d54787f8b3" alt="Python: crie a sua primeira aplicação">
   </a>
 </p>
 
